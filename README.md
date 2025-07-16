@@ -1,3 +1,5 @@
+<img width="1200" height="300" alt="Olist Seller Cluster Anaysitcs" src="https://github.com/user-attachments/assets/9df7121b-96a5-4999-b428-f7281f28564e" />
+
 # 🛒 Customer Segmentation Analysis for Olist-E-Commerce
 
 ## Creator
