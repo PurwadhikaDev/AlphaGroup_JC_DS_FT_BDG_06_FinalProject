@@ -4,9 +4,9 @@
 
 ## Creator
 
-1. **Annalia Alfia Rahma** – fiaannalia2833@gmail.com  
-2. **M Narendra Atma Ghifari** – mnaghifari@gmail.com  
-3. **Muhammad Rizky Indrawan** – mochrizkyindrawan99@gmail.com
+1. **Annalia Alfia Rahma** – fiaannalia2833@gmail.com | [LinkedIn](https://www.linkedin.com/in/annaliaalfia28/)
+2. **M Narendra Atma Ghifari** – mnaghifari@gmail.com | [Linkedin](https://www.linkedin.com/in/mnaghifari/)
+3. **Muhammad Rizky Indrawan** – mochrizkyindrawan99@gmail.com | [Linkedin](https://www.linkedin.com/in/mrindrawan99/)
 
 ##  Business Problem
 
